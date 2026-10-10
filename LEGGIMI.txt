@@ -1,0 +1,13 @@
+CIGO STUDIO — Decorazioni su pelle e tessuto
+Pacchetto autonomo per GitHub Pages: 18 lavori, 39 fotografie.
+
+1. Crea un repository pubblico chiamato cigo-decorazioni.
+2. Estrai questo ZIP sul computer.
+3. Carica index.html, la cartella images e .nojekyll nella radice del repository. Non caricare lo ZIP.
+4. In Settings > Pages scegli Deploy from a branch, poi main e / (root), e salva.
+5. Attendi la pubblicazione: GitHub mostra il collegamento al sito.
+
+Per vedere il sito prima di pubblicarlo, apri index.html dopo aver estratto lo ZIP. La cartella images deve restare accanto a index.html.
+
+Contatti pubblici: cigostudio.c@gmail.com e 338 996 7806 (solo WhatsApp). Le icone sono incluse nel codice, senza immagini da caricare. Il sito non contiene moduli o statistiche.
+Marchi e soggetti citati descrivono i lavori; non indicano collaborazioni ufficiali.
